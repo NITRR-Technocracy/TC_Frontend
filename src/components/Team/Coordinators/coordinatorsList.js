@@ -25,7 +25,7 @@ export const coordinatorsList = [
     name: "Vaibhav Sawant",
     // imgUrl: Vaibhav_Sawant,
     linkedinUrl: "https://www.linkedin.com/in/vaibhav-sawant-59522922a/",
-    instaUrl: "#",
+    instaUrl: "https://instagram.com/simply_vaibhav?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D",
     facebookUrl : "#",
     githubUrl : "#",
     domain: "Chemical"
@@ -36,7 +36,7 @@ export const coordinatorsList = [
     name: "Chirag Singhal",
     // imgUrl: Chirag_Singhal,
     linkedinUrl: "https://www.linkedin.com/in/chirag-singhal-a61b40228/",
-    instaUrl: "#",
+    instaUrl: "https://instagram.com/1502.chirag?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"CSE"
@@ -47,7 +47,7 @@ export const coordinatorsList = [
     name: "Ishan Nayak",
     // imgUrl: Ishan_Nayak,
     linkedinUrl: "https://www.linkedin.com/in/ishan-nayak-340b6b218/",
-    instaUrl: "#",
+    instaUrl: "https://instagram.com/ishan_nayak_1607?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"ECE"
@@ -57,7 +57,7 @@ export const coordinatorsList = [
     name: "Arpit Pandey",
     // imgUrl: Arpit_Pandey,
     linkedinUrl: "https://www.linkedin.com/in/arpit-pandey-1866a2142/",
-    instaUrl: "#",
+    instaUrl: "https://www.instagram.com/arpitp_192/?hl=en",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"MME"
@@ -67,7 +67,7 @@ export const coordinatorsList = [
     name: "Anushree Banerjee",
     // imgUrl: Anushree_Banerjee,
     linkedinUrl: "https://www.linkedin.com/in/anushree001/",
-    instaUrl: "#",
+    instaUrl: "http://instagram.com/momo_02.04/",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"Bio-Med"
@@ -77,7 +77,7 @@ export const coordinatorsList = [
     name: "Aparna Gupta",
     // imgUrl: Aparna_Gupta,
     linkedinUrl: "https://www.linkedin.com/in/aparna-gupta-185981214/",
-    instaUrl: "#",
+    instaUrl: "https://instagram.com/apar_na_gupta__?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"Chemical"
@@ -87,7 +87,7 @@ export const coordinatorsList = [
     name: "Kushal Jain",
     // imgUrl: Kushal_Jain,
     linkedinUrl: "https://www.linkedin.com/in/kushal-jain-8645ab202/",
-    instaUrl: "#",
+    instaUrl: "https://www.instagram.com/kushaljain.202/",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"Chemical"
@@ -107,7 +107,7 @@ export const coordinatorsList = [
     name: "Shreya Borikar",
     // imgUrl: Shreya_Borikar,
     linkedinUrl: "https://www.linkedin.com/in/shreya-borikar-223b75227/",
-    instaUrl: "#",
+    instaUrl: "https://instagram.com/shreya1211_?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"CSE"
@@ -117,7 +117,7 @@ export const coordinatorsList = [
     name: "Satyam Singh",
     // imgUrl: Satyam_Singh,
     linkedinUrl: "https://www.linkedin.com/in/satyam-singh-0a0b4721a/",
-    instaUrl: "#",
+    instaUrl: "https://www.instagram.com/singhsatyam480532023/",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"CSE"
@@ -127,7 +127,7 @@ export const coordinatorsList = [
     name: "Pramil Kesarwani",
     // imgUrl: Pramil_Kesarwani,
     linkedinUrl: "https://www.linkedin.com/in/pramil-kesarwani-10b374214/",
-    instaUrl: "#",
+    instaUrl: "https://www.instagram.com/kesarwanipramil/",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"ECE"
@@ -137,7 +137,7 @@ export const coordinatorsList = [
     name: "Arkita Dam",
     // imgUrl: Arkita_Dam,
     linkedinUrl: "https://www.linkedin.com/in/arkita-dam-7865551a1/",
-    instaUrl: "#",
+    instaUrl: "https://instagram.com/shreya1211_?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"ECE"
@@ -147,7 +147,7 @@ export const coordinatorsList = [
     name: "Sameer Trivedi",
     // imgUrl: Sameer_Trivedi,
     linkedinUrl: "https://www.linkedin.com/in/sameert89/",
-    instaUrl: "#",
+    instaUrl: "https://www.instagram.com/s_ameer___/",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"ECE"
@@ -157,7 +157,7 @@ export const coordinatorsList = [
     name: "Sujoy Banerjee",
     // imgUrl: Sujoy_Banerjee,
     linkedinUrl: "https://www.linkedin.com/in/sujoy-banerjee-a698aa210/",
-    instaUrl: "#",
+    instaUrl: "https://instagram.com/sujoy0910?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"ECE"
@@ -167,7 +167,7 @@ export const coordinatorsList = [
     name: "Gopal Katankar",
     // imgUrl: Gopal_Katankar,
     linkedinUrl: "https://www.linkedin.com/in/gopal-katankar-a03849206/",
-    instaUrl: "#",
+    instaUrl: "https://www.instagram.com/gopalkatankar/",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"ECE"
@@ -177,7 +177,7 @@ export const coordinatorsList = [
     name: "Suraj Jogani",
     // imgUrl: Suraj_Jogani,
     linkedinUrl: "https://www.linkedin.com/in/suraj-jogani/",
-    instaUrl: "#",
+    instaUrl: "https://instagram.com/_jogani.suraj_?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"Electrical"
@@ -187,7 +187,7 @@ export const coordinatorsList = [
     name: "Nakshatra Singh",
     // imgUrl: Nakshatra_Singh,
     linkedinUrl: "https://www.linkedin.com/in/nakshatra-singh-96929a21b/",
-    instaUrl: "#",
+    instaUrl: "https://instagram.com/nakshsinghhh?igshid=OGQ5ZDc2ODk2ZA==",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"IT"
@@ -197,7 +197,7 @@ export const coordinatorsList = [
     name: "Pranshul Hatwar",
     // imgUrl: Pranshul_Hatwar,
     linkedinUrl: "https://www.linkedin.com/in/pranshul-hatwar/",
-    instaUrl: "#",
+    instaUrl: "https://www.instagram.com/pranshul_hatwar1510/",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"IT"
@@ -207,7 +207,7 @@ export const coordinatorsList = [
     name: "Abhijeet Kumar Singh",
     // imgUrl: Abhijeet_Kumar_Singh,
     linkedinUrl: "https://www.linkedin.com/in/abhijeet-kumar-singh-3517b7122/",
-    instaUrl: "#",
+    instaUrl: "https://www.instagram.com/abhijeetsingh12082001/",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"MME"
@@ -217,7 +217,7 @@ export const coordinatorsList = [
     name: "Rishav Gandhi",
     // imgUrl: Rishav_Gandhi,
     linkedinUrl: "https://www.linkedin.com/in/rishav-gandhi-998a74211/",
-    instaUrl: "#",
+    instaUrl: "https://instagram.com/___rishav._?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D",
     facebookUrl : "#",
     githubUrl : "#",
     domain:"MME"
