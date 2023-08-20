@@ -11,7 +11,7 @@ const Hero = () => {
 						<video src={videoBg} autoPlay loop muted />
 					</div>
 					<div className={styles.textcontent}>
-						<a href="/aavartan"><button className={styles.button49}>Vigyaan</button></a>
+						<a href="/vigyaan"><button className={styles.button49}>Vigyaan</button></a>
 						<p>The student Technical Committee of NIT Raipur </p>
 						<h2>Team <br />Technocracy</h2>
 					</div>

@@ -39,6 +39,7 @@ import VRShow from "./components/Forms/Registration/VR Show/VRShow";
 import QR_FINDER from "./components/QR_FINDER";
 import ValoForm from "./components/Forms/Registration/ValoForm"
 import Gform from "./components/Forms/Registration/Gform";
+import Vigyaan from "./components/Aavartan_Components/Vigyaan";
 
 const App = () => {
   const [isDesktop, setIsDesktop] = useState(false);
@@ -72,6 +73,7 @@ const App = () => {
           {/* </Routes> */}
           {/* <Routes> */}
           <Route exact path="/aavartan" element={<Aavartan />} />
+          <Route exact path="/vigyaan" element={<Vigyaan />} />
           <Route exact path="/events" element={<EventPage />} />
           <Route exact path="/tech-team" element={<TechTeamSec />} />
           <Route exact path="/register/blindcoding" element={<BlindCode />} />

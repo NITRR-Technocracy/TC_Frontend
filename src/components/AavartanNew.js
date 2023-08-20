@@ -20,9 +20,9 @@ const AavartanNew = () => {
         {/* <Event/> */}
         <EveningShows />
         <Layout />
-        <Vigyaan />
-        <ProblemSt />
-        <LayoutVigyan />
+        {/* <Vigyaan /> */}
+        {/* <ProblemSt /> */}
+        {/* <LayoutVigyan /> */}
         {/* <NFooter /> */}
       </div>
     </>

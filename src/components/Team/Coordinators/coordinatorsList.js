@@ -4,7 +4,7 @@ import Ishan_Nayak from "../../../images/coordinators/Ishan_Nayak.jpg";
 import Arpit_Pandey from "../../../images/coordinators/Arpit_Pandey.jpg";
 import Anushree_Banerjee from "../../../images/coordinators/Anushree_Banerjee.jpg";
 import Aparna_Gupta from "../../../images/coordinators/Aparna_Gupta.jpg";
-import Kushal_Jain from "../../../images/coordinators/Kushal_Jain.JPG";
+import Kushal_Jain from "../../../images/coordinators/Kushal_Jain.jpg";
 import Pratham_Gandhi from "../../../images/coordinators/Pratham_Gandhi.jpg";
 import Shreya_Borikar from "../../../images/coordinators/Shreya_Borikar.jpg";
 import Satyam_Singh from "../../../images/coordinators/Satyam_Singh.jpg";

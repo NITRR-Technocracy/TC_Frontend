@@ -6,7 +6,7 @@ import vigyaanrules from '../../assets/ProblemSt/VigyaanRules.pdf';
 import Architecture from '../../assets/ProblemSt/ARCHITECTURE.pdf';
 import Biomed from '../../assets/ProblemSt/BIOMED PS.pdf';
 import Biotech from '../../assets/ProblemSt/BIOTECH PS.pdf';
-// import Chemical from '../../assets/ProblemSt/Chemical.pdf';
+import Chemical from '../../assets/ProblemSt/Chemical.pdf';
 import Civil from '../../assets/ProblemSt/Civil.pdf';
 import CSE from '../../assets/ProblemSt/CSE+IT+MCA.pdf';
 import ECE from '../../assets/ProblemSt/ECE.pdf';
@@ -41,22 +41,22 @@ const ProblemSt = () => {
                         <div className={styles.pscol}><a href={Biotech} target="_blank" rel='noreferrer'><button className={styles.button49}>BIOTECH</button></a></div>
                     </div>
                     <div className={styles.psrow}>
-                        {/* <div className={styles.pscol}><a href={Chemical} target="_blank" rel='noreferrer'><button className={styles.button49}>CHEMICAL</button></a></div> */}
                         <div className={styles.pscol}><a href={Civil} target="_blank" rel='noreferrer'><button className={styles.button49}>CIVIL</button></a></div>
-                        <div className={styles.pscol}><a href={CSE} target="_blank" rel='noreferrer'><button className={styles.button49}>CSE</button></a></div>
-                    </div>
-                    <div className={styles.psrow}>
+                        <div className={styles.pscol}><a href={CSE} target="_blank" rel='noreferrer'><button className={styles.button49}>CSE/ IT/ MCA</button></a></div>
                         <div className={styles.pscol}><a href={ECE} target="_blank" rel='noreferrer'><button className={styles.button49}>ECE</button></a></div>
-                        <div className={styles.pscol}><a href={EE} target="_blank" rel='noreferrer'><button className={styles.button49}>EE</button></a></div>
-                        <div className={styles.pscol}><a href={IT} target="_blank" rel='noreferrer'><button className={styles.button49}>IT</button></a></div>
                     </div>
                     <div className={styles.psrow}>
-                        <div className={styles.pscol}><a href={MCA} target="_blank" rel='noreferrer'><button className={styles.button49}>MCA</button></a></div>
+                        <div className={styles.pscol}><a href={EE} target="_blank" rel='noreferrer'><button className={styles.button49}>EE</button></a></div>
+                        {/* <div className={styles.pscol}><a href={IT} target="_blank" rel='noreferrer'><button className={styles.button49}>IT</button></a></div> */}
+                        {/* <div className={styles.pscol}><a href={MCA} target="_blank" rel='noreferrer'><button className={styles.button49}>MCA</button></a></div> */}
                         <div className={styles.pscol}><a href={MECH} target="_blank" rel='noreferrer'><button className={styles.button49}>MECH</button></a></div>
                         <div className={styles.pscol}><a href={META} target="_blank" rel='noreferrer'><button className={styles.button49}>META</button></a></div>
                     </div>
                     <div className={styles.psrow}>
                         <div className={styles.pscol}><a href={Mining} target="_blank" rel='noreferrer'><button className={styles.button49}>MINING</button></a></div>
+                        <div className={styles.pscol}><a href={Chemical} target="_blank" rel='noreferrer'><button className={styles.button49}>CHEMICAL</button></a></div>
+                    </div>
+                    <div className={styles.psrow}>
                     </div>
                 </div>
             </div>

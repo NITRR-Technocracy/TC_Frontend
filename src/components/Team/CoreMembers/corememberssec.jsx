@@ -7,317 +7,254 @@ import styles from './corememberssec.module.css';
 
 const corememberslist=[
 	{
-				"S.No.": "1",
-				"Name": "Abhijeet Kumar Singh",
-				"Branch": "",
-				"Domain": "Sponsorship"
-			},
-	{
-				"S.No.": "2",
-				"Name": "C.Sriya",
-				"Branch": "",
-				"Domain": "Sponsorship"
-			},
-	{
-				"S.No.": "3",
-				"Name": "Kuldeep Verma",
-				"Branch": "",
-				"Domain": "Sponsorship"
-			},
-	{
-				"S.No.": "4",
-				"Name": "Harshit Singh",
-				"Branch": "",
-				"Domain": "Sponsorship"
-			},
-	{
-				"S.No.": "5",
-				"Name": "Shuja Haidar Rizvi",
-				"Branch": "",
-				"Domain": "Sponsorship"
-			},
-	{
-				"S.No.": "6",
-				"Name": "Ishan Nayak",
-				"Branch": "",
-				"Domain": "Sponsorship"
-			},
-	{
-				"S.No.": "7",
-				"Name": "Arpit Pandey",
-				"Branch": "",
-				"Domain": "Sponsorship"
-			},
-	{
-				"S.No.": "8",
-				"Name": " Aditi Nirala",
-				"Branch": "",
-				"Domain": "Sponsorship"
-			},
-	{
-				"S.No.": "9",
-				"Name": "Priyanshu Agrahari",
-				"Branch": "",
-				"Domain": "Public Relation"
-			},
-	{
-				"S.No.": "10",
-				"Name": " Vaibhav Sawant",
-				"Branch": "",
-				"Domain": "Public Relation"
-			},
-	{
-				"S.No.": "11",
-				"Name": " Vaibhav Kumar Jangid",
-				"Branch": "",
-				"Domain": "Public Relation"
-			},
-	{
-				"S.No.": "12",
-				"Name": " Satyam Singh",
-				"Branch": "",
-				"Domain": "Public Relation"
-			},
-	{
-				"S.No.": "13",
-				"Name": " Md Amaan",
-				"Branch": "",
-				"Domain": "Public Relation"
-			},
-	{
-				"S.No.": "14",
-				"Name": " Mansi Kumari",
-				"Branch": "",
-				"Domain": "Public Relation"
-			},
-	{
-				"S.No.": "15",
-				"Name": " Chirag Gajhbhiye",
-				"Branch": "",
-				"Domain": "Public Relation"
-			},
-	{
-				"S.No.": "16",
-				"Name": " Gaurav Kumar sahu",
-				"Branch": "",
-				"Domain": "Public Relation"
-			},
-	{
-				"S.No.": "17",
-				"Name": " Aela Chakri",
-				"Branch": "",
-				"Domain": "Public Relation"
-			},
-	{
-				"S.No.": "18",
-				"Name": " Chirag Singhal",
-				"Branch": "",
-				"Domain": "Public Relation"
-			},
-	{
-				"S.No.": "19",
-				"Name": " Suchit Kukuna",
-				"Branch": "",
-				"Domain": "Public Relation"
-			},
-	{
-				"S.No.": "20",
-				"Name": " Aral Bhagat",
-				"Branch": "",
-				"Domain": "Public Relation"
-			},
-	{
-				"S.No.": "21",
-				"Name": " Durgesh Verma",
-				"Branch": "",
-				"Domain": "Public Relation"
-			},
-	{
-				"S.No.": "22",
-				"Name": " Pramil Kesarwani",
-				"Branch": "",
-				"Domain": "Public Relation"
-			},
-	{
-				"S.No.": "23",
-				"Name": "Aanchal Sharma",
-				"Branch": "",
-				"Domain": "Event Management"
-			},
-	{
-				"S.No.": "24",
-				"Name": " Aparna Gupta",
-				"Branch": "",
-				"Domain": "Event Management"
-			},
-	{
-				"S.No.": "25",
-				"Name": " Sourabh Pratap Singh",
-				"Branch": "Mech",
-				"Domain": "Event Management"
-			},
-	{
-				"S.No.": "26",
-				"Name": " Nakshatra Singh",
-				"Branch": "",
-				"Domain": "Event Management"
-			},
-	{
-				"S.No.": "27",
-				"Name": " Shreya Borikar",
-				"Branch": "",
-				"Domain": "Event Management"
-			},
-	{
-				"S.No.": "28",
-				"Name": " Shivani Gupta",
-				"Branch": "",
-				"Domain": "Event Management"
-			},
-	{
-				"S.No.": "29",
-				"Name": " Manas Kumar",
-				"Branch": "",
-				"Domain": "Event Management"
-			},
-	{
-				"S.No.": "30",
-				"Name": " Shalini Kashyap",
-				"Branch": "",
-				"Domain": "Event Management"
-			},
-	{
-				"S.No.": "31",
-				"Name": " Shreyansh Agarwal",
-				"Branch": "",
-				"Domain": "Event Management"
-			},
-	{
-				"S.No.": "32",
-				"Name": " Akshat Shrivastava ",
-				"Branch": "",
-				"Domain": "Event Management"
-			},
-	{
-				"S.No.": "33",
-				"Name": " Shreyansh Sharma",
-				"Branch": "",
-				"Domain": "Event Management"
-			},
-	{
-				"S.No.": "34",
-				"Name": " Viplow Kumar Das",
-				"Branch": "Mech",
-				"Domain": "Event Management"
-			},
-	{
-				"S.No.": "35",
-				"Name": " Sumapriya",
-				"Branch": "",
-				"Domain": "Event Management"
-			},
-	{
-				"S.No.": "36",
-				"Name": " Paila Likhita",
-				"Branch": "",
-				"Domain": "Event Management"
-			},
-	{
-				"S.No.": "37",
-				"Name": "Pranshul Hatwar",
-				"Branch": "",
-				"Domain": "Vigyaan"
-			},
-	{
-				"S.No.": "38",
-				"Name": " Anushka Pant",
-				"Branch": "",
-				"Domain": "Vigyaan"
-			},
-	{
-				"S.No.": "39",
-				"Name": " Saransh Wakde",
-				"Branch": "",
-				"Domain": "Vigyaan"
-			},
-	{
-				"S.No.": "40",
-				"Name": " Vishakha Jha",
-				"Branch": "",
-				"Domain": "Vigyaan"
-			},
-	{
-				"S.No.": "41",
-				"Name": " Anushree Banerjee ",
-				"Branch": "",
-				"Domain": "Vigyaan"
-			},
-	{
-				"S.No.": "42",
-				"Name": " Pratham Gandhi",
-				"Branch": "",
-				"Domain": "Vigyaan"
-			},
-	{
-				"S.No.": "43",
-				"Name": "Sameer Trivedi",
-				"Branch": "ECE",
-				"Domain": "Documentation"
-			},
-	{
-				"S.No.": "44",
-				"Name": "Arkita Dam",
-				"Branch": "ECE",
-				"Domain": "Documentation"
-			},
-	{
-				"S.No.": "45",
-				"Name": "Kushal Jain",
-				"Branch": "",
-				"Domain": "Design"
-			},
-	{
-				"S.No.": "46",
-				"Name": " Suraj Jogani",
-				"Branch": "",
-				"Domain": "Design"
-			},
-	{
-				"S.No.": "47",
-				"Name": " Sujoy Banerjee ",
-				"Branch": "",
-				"Domain": "Design"
-			},
-	{
-				"S.No.": "48",
-				"Name": "Navneet Kaur",
-				"Branch": "",
-				"Domain": "Design"
-			},
-	{
-				"S.No.": "49",
-				"Name": "Shazma Siddiqui",
-				"Branch": "",
-				"Domain": "Tech"
-			},
-	{
-				"S.No.": "50",
-				"Name": " Rishav Gandhi",
-				"Branch": "",
-				"Domain": "Tech"
-			},
-	{
-				"S.No.": "51",
-				"Name": "Harsh Ranjan Sinha",
-				"Branch": "",
-				"Domain": "Tech"
-			},
-	{
-				"S.No.": "52",
-				"Name": "Premchand Maddikuntla",
-				"Branch": "",
-				"Domain": "Tech"
-			}
+		"S.No.": "1",
+		"Name": "MD Uruj Akbar Rahman",
+		"Branch": "",
+		"Domain": "Sponsorship"
+	},
+{
+		"S.No.": "2",
+		"Name": "Shruti Chauhan",
+		"Branch": "",
+		"Domain": "Sponsorship"
+	},
+{
+		"S.No.": "3",
+		"Name": "Mukund Maheshwari",
+		"Branch": "",
+		"Domain": "Sponsorship"
+	},
+{
+		"S.No.": "4",
+		"Name": "Amrita Mishra",
+		"Branch": "",
+		"Domain": "Sponsorship"
+	},
+
+{
+		"S.No.": "5",
+		"Name": "Lakshya Raj",
+		"Branch": "",
+		"Domain": "Public Relation"
+	},
+{
+		"S.No.": "6",
+		"Name": " Pragya Dave",
+		"Branch": "",
+		"Domain": "Public Relation"
+	},
+{
+		"S.No.": "7",
+		"Name": " Siddharth Billaiya",
+		"Branch": "",
+		"Domain": "Public Relation"
+	},
+{
+		"S.No.": "8",
+		"Name": " Bhavya Jain",
+		"Branch": "",
+		"Domain": "Public Relation"
+	},
+{
+		"S.No.": "9",
+		"Name": " Harsh Jangir",
+		"Branch": "",
+		"Domain": "Public Relation"
+	},
+{
+		"S.No.": "10",
+		"Name": " Pranav Kumar Singh",
+		"Branch": "",
+		"Domain": "Public Relation"
+	},
+{
+		"S.No.": "11",
+		"Name": " Meghna Sahu",
+		"Branch": "",
+		"Domain": "Public Relation"
+	},
+{
+		"S.No.": "12",
+		"Name": " Tulika Dutta",
+		"Branch": "",
+		"Domain": "Public Relation"
+	},
+{
+		"S.No.": "13",
+		"Name": " Amitabh Shukla",
+		"Branch": "",
+		"Domain": "Public Relation"
+	},
+
+{
+		"S.No.": "14",
+		"Name": "Md Sai Krishna",
+		"Branch": "",
+		"Domain": "Event Management"
+	},
+{
+		"S.No.": "15",
+		"Name": " Gaurav Mishra",
+		"Branch": "",
+		"Domain": "Event Management"
+	},
+{
+		"S.No.": "16",
+		"Name": " Deepali Paswan",
+		"Branch": "Mech",
+		"Domain": "Event Management"
+	},
+{
+		"S.No.": "17",
+		"Name": " Juhi Dwivedi",
+		"Branch": "",
+		"Domain": "Event Management"
+	},
+{
+		"S.No.": "18",
+		"Name": " Tarun Singh",
+		"Branch": "",
+		"Domain": "Event Management"
+	},
+{
+		"S.No.": "19",
+		"Name": " Yasmeen Mahilang",
+		"Branch": "",
+		"Domain": "Event Management"
+	},
+{
+		"S.No.": "20",
+		"Name": " Akash Soni",
+		"Branch": "",
+		"Domain": "Event Management"
+	},
+{
+		"S.No.": "21",
+		"Name": " Anjali Rege",
+		"Branch": "",
+		"Domain": "Event Management"
+	},
+{
+		"S.No.": "22",
+		"Name": " Shreyansh Patel",
+		"Branch": "",
+		"Domain": "Event Management"
+	},
+{
+		"S.No.": "23",
+		"Name": " Aqsa Khan ",
+		"Branch": "",
+		"Domain": "Event Management"
+	},
+
+{
+		"S.No.": "24",
+		"Name": "Vaidik Pandey",
+		"Branch": "",
+		"Domain": "Vigyaan"
+	},
+{
+		"S.No.": "25",
+		"Name": " Neha Kariya",
+		"Branch": "",
+		"Domain": "Vigyaan"
+	},
+{
+		"S.No.": "26",
+		"Name": " Sachin Saini",
+		"Branch": "",
+		"Domain": "Vigyaan"
+	},
+{
+		"S.No.": "27",
+		"Name": " Aadarsh Saurav",
+		"Branch": "",
+		"Domain": "Vigyaan"
+	},
+{
+		"S.No.": "28",
+		"Name": " Priyanka Kilaparthi ",
+		"Branch": "",
+		"Domain": "Vigyaan"
+	},
+{
+		"S.No.": "29",
+		"Name": " Somya Kabra",
+		"Branch": "",
+		"Domain": "Vigyaan"
+	},
+{
+		"S.No.": "30",
+		"Name": "Shaili Mishra",
+		"Branch": "ECE",
+		"Domain": "Documentation"
+	},
+{
+		"S.No.": "31",
+		"Name": "Chitransh Jawere",
+		"Branch": "ECE",
+		"Domain": "Documentation"
+	},
+{
+		"S.No.": "32",
+		"Name": "Shrushti Kapse",
+		"Branch": "",
+		"Domain": "Design"
+	},
+{
+		"S.No.": "33",
+		"Name": " Devesh Kumar Pandey",
+		"Branch": "",
+		"Domain": "Design"
+	},
+{
+		"S.No.": "34",
+		"Name": " Amit Kumar Dansena ",
+		"Branch": "",
+		"Domain": "Design"
+	},
+{
+		"S.No.": "35",
+		"Name": "Govind Purty",
+		"Branch": "",
+		"Domain": "Design"
+	},
+{
+		"S.No.": "36",
+		"Name": "Nikhil Dewangan",
+		"Branch": "",
+		"Domain": "Design"
+	},
+{
+		"S.No.": "37",
+		"Name": "Durgesh Sahu",
+		"Branch": "",
+		"Domain": "Design"
+	},
+{
+		"S.No.": "38",
+		"Name": "Vibhuti Chandrakar",
+		"Branch": "",
+		"Domain": "Tech"
+	},
+{
+		"S.No.": "39",
+		"Name": " Piyush Kumar",
+		"Branch": "",
+		"Domain": "Tech"
+	},
+{
+		"S.No.": "40",
+		"Name": "Aniket Kumar",
+		"Branch": "",
+		"Domain": "Tech"
+	},
+{
+		"S.No.": "41",
+		"Name": "Ankit Lakara",
+		"Branch": "",
+		"Domain": "Tech"
+	}
 			]
 
 const CoreMemberSec = () => {
